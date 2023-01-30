@@ -1,0 +1,19 @@
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  gap: 15px;
+  margin: 30px 0;
+
+  margin-left: 70px;
+}
+
+.statisticsItem {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.statisticsNumber {
+  color: brown;
+  margin-left: 5px;
+}
